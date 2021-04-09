@@ -1,2 +1,2 @@
-# -learn-mongodb
+# learn-mongodb
  learn-mongodb
